@@ -35,7 +35,6 @@
 * Windows 이벤트를 **실시간 집계/메트릭화** (예: 입력 발생 빈도, 세션/상태 이벤트)
 * 이벤트를 **JSON으로 직렬화**
 * **WebSocket(Boost.Asio/Beast)** 로 백엔드 전송
-* 연결 유지/복구: **Heartbeat + 재연결 로직**
 
 ### Java Backend (Spring Boot)
 
